@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_dominiopaises">
+        <item>.fr</item>
+        <item>.uk</item>
+        <item>.com.ve</item>
+        <item>.mx</item>
+        <item>.se</item>
+    </string-array>
+</resources>
